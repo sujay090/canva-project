@@ -1,0 +1,6 @@
+"use client";
+
+function login() {
+  return <div>login page</div>;
+}
+export default login;
